@@ -37,9 +37,9 @@ const Header = ({ props }) => {
             <div>
                 <Link href={"/"}>
                     <p className="text-white text-3xl font-semibold font-lobster leading-[100%]">
-                        <span className="text-5xl">C</span>
-                        ode
-                        <span className="text-red">giyu</span>
+                        <span className="text-5xl"></span>
+                        Mua
+                        <span className="text-red">shef</span>
                     </p>
                 </Link>
             </div>

@@ -5,7 +5,7 @@ const Intro = () => {
         <div className="w-full flex flex-col gap-6 lg:gap-12">
             <div className="flex flex-col gap-10 font-montserrat text-[rgb(250,250,250)]">
                 <h1 className="text-[36px] md:text-[50px] font-bold leading-[110%]">
-                    Hi, I&apos;m <span className="text-red">Edward-Precious Omegbu</span>
+                    Hi, I&apos;m <span className="text-red">Sherif Muhammed</span>
                 </h1>
                 <p className="font-poppins font-normal text-sm lg:text-lg leading-[150%] tracking-normal">
                     {/* A.K.A. <span className="text-red text-base lg:text-xl font-semibold">Codegiyu. </span> */}
@@ -13,22 +13,22 @@ const Intro = () => {
                 </p>
             </div>
             <div className="flex gap-8">
-                <a href="https://twitter.com/TheLonerider20">
+                <a href="https://twitter.com/muashef1">
                     <div className="relative w-[22px] lg:w-[30px] aspect-square">
                         <Image src={"/images/twitter.svg"} alt="twitter" fill loading="eager" />
                     </div>
                 </a>
-                <a href="https://github.com/codegiyu">
+                <a href="https://github.com/muashef">
                     <div className="relative w-[22px] lg:w-[30px] aspect-square">
                         <Image src={"/images/github.svg"} alt="github" fill loading="eager" />
                     </div>
                 </a>
-                <a href="https://www.linkedin.com/in/edward-precious-omegbu">
+                <a href="https://www.linkedin.com/in/sherif-muhammed">
                     <div className="relative w-[22px] lg:w-[30px] aspect-square">
                         <Image src={"/images/linkedin.svg"} alt="linkedin" fill loading="eager" />
                     </div>
                 </a>
-                <a href="https://wa.me/message/7QB2Q45GBV7AG1">
+                <a href="https://wa.link/w1e3cz">
                     <div className="relative w-[22px] lg:w-[30px] aspect-square">
                         <Image src={"/images/whatsapp.svg"} alt="whatsapp" fill loading="eager" />
                     </div>

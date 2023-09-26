@@ -3,9 +3,9 @@ const Footer = () => {
         <div className="flex justify-between items-baseline py-2 bg-darkBg">
             <div className="">
                 <p className="text-white text-[20px] font-semibold font-lobster">
-                    <span className="text-[32px]">C</span>
-                    ode
-                    <span className="text-red">giyu</span>
+                    <span className="text-[32px]"></span>
+                    Mua
+                    <span className="text-red">shef</span>
                 </p>
             </div>
             <div className="">

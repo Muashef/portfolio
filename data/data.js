@@ -4,7 +4,7 @@ export const SKILLS = [
     {source: "/images/skills/html5.svg", name: "HTML5"},
     {source: "/images/skills/css3.svg", name: "CSS3"},
     {source: "/images/skills/javascript.svg", name: "JavaScript"},
-    {source: "/images/skills/typescript.svg", name: "TypeScript"},
+    // {source: "/images/skills/typescript.svg", name: "TypeScript"},
     {source: "/images/skills/scss.svg", name: "Scss"},
     {source: "/images/skills/bootstrap.svg", name: "Bootstrap 5"},
     {source: "/images/skills/tailwindcss.svg", name: "TailwindCSS"},
@@ -12,20 +12,20 @@ export const SKILLS = [
     {source: "/images/skills/react.svg", name: "React JS"},
     {source: "/images/skills/nextjs.svg", name: "Next JS"},
     {source: "/images/skills/nodejs.svg", name: "Node JS"},
-    {source: "/images/skills/express.svg", name: "Express JS"},
-    {source: "/images/skills/mongodb.svg", name: "Mongo DB"},
+    // {source: "/images/skills/express.svg", name: "Express JS"},
+    // {source: "/images/skills/mongodb.svg", name: "Mongo DB"},
     // {source: "/images/skills/php.svg", name: "PHP"},
     // {source: "/images/skills/mysql.svg", name: "MySQL"},
 ]
 
 const PROJECTS = [
     {
-        img: "/images/projects/lendsqr.png", 
-        title: "Lendsqr Users Dashboard", 
-        description: "Mock simple website for Lendsqr Users Dashboard", 
+        img: "/images/projects/probar.jpeg", 
+        title: "Probar", 
+        description: "A website to kickstart your tech career in Product Management.", 
         skills: [
-            "/images/skills/react.svg", "/images/skills/typescript.svg", "/images/skills/scss.svg"],
-        link: "https://edward-precious-omegbu-lensqr-fe-test.vercel.app"
+            "/images/skills/react.svg", "/images/skills/tailwindcss.svg"],
+        link: "https://probar-swart.vercel.app/"
     },
     {
         img: "/images/projects/mentro.png", 
@@ -36,13 +36,13 @@ const PROJECTS = [
         link: "https://mentro-challenge.vercel.app"
     },
     {
-        img: "/images/projects/debt-management.png", 
-        title: "Debt Management", 
-        description: "Mock simple website for Debt Management Office Nigeria", 
+        img: "/images/projects/haidresser.jpeg", 
+        title: "Salon 40", 
+        description: "A hairdresser website", 
         skills: [
-            "/images/skills/react.svg", "/images/skills/tailwindcss.svg", "/images/skills/nodejs.svg", "/images/skills/express.svg",
-            "/images/skills/mongodb.svg"],
-        link: "https://debt-management.vercel.app"
+            "/images/skills/html5.svg", "/images/skills/css3.svg"
+            ],
+        link: "https://haridresser-web.netlify.app"
     },
     {
         img: "/images/projects/musica.png", 
@@ -54,13 +54,13 @@ const PROJECTS = [
         link: "https://musica-challenge.vercel.app"
     },
     {
-        img: "/images/projects/trivia.PNG", 
-        title: "Trivia Quiz", 
-        description: "Multichoice tivia quiz with different categories and questions fetched online", 
+        img: "/images/projects/wiping.jpeg", 
+        title: "Wiping Landing Page", 
+        description: "A social app that gives you the ability to create a work-life balance.", 
         skills: [
-            "/images/skills/html5.svg", "/images/skills/css3.svg", "/images/skills/javascript.svg", "/images/skills/bootstrap.svg"
+            "/images/skills/react.svg", "/images/tailwindcss.svg"
         ],
-        link: "https://codegiyu.github.io/games/trivia.html"
+        link: "https://wiping-landing-page.vercel.app"
     },
     {
         img: "/images/projects/omorofan.jpg", 
