@@ -12,7 +12,7 @@ const nextConfig = {
           },
           {
             key: 'Link',
-            value: ' < https://portfolio-codegiyu.vercel.app >; rel="canonical"',
+            value: ' < https://portfolio-muashef.vercel.app >; rel="canonical"',
           },
         ],
         source: '/:path*',

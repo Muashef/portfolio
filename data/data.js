@@ -54,11 +54,20 @@ const PROJECTS = [
         link: "https://musica-challenge.vercel.app"
     },
     {
+        img: "/images/projects/mb.png", 
+        title: "Movie Box", 
+        description: "A SPA for Movies", 
+        skills: [
+            "/images/skills/react.svg", "/images/skills/tailwindcss.svg", "/images/skills/javascript.svg"
+        ],
+        link: "https://moviebox-sigma.vercel.app/"
+    },
+    {
         img: "/images/projects/wiping.jpeg", 
         title: "Wiping Landing Page", 
         description: "A social app that gives you the ability to create a work-life balance.", 
         skills: [
-            "/images/skills/react.svg", "/images/tailwindcss.svg"
+            "/images/skills/react.svg", "/images/skills/tailwindcss.svg"
         ],
         link: "https://wiping-landing-page.vercel.app"
     },
