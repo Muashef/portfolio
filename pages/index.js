@@ -95,7 +95,7 @@ export default function Home() {
         <meta name="twitter:card" content="portfolio" />
         <meta name="twitter:title" content="Muashef - React Developer" />
         <meta name="twitter:url" content="https://portfolio-muashef.vercel.app" />
-        <meta name="twitter:site" content="@TheLonerider20" />
+        <meta name="twitter:site" content="@muashef1" />
         <meta name="twitter:description" content="I'm Sherif, a Frontend React Developer. I build beautiful, fun and interactive things with code. Programmer portfolio website built with NextJS and Tailwind CSS." />
         <meta name="twitter:image" content="https://res.cloudinary.com/dtd5id8ik/image/upload/v1706870601/b060hrfpb6wyilcwqqw9.png" />
         <link rel="canonical" href="https://portfolio-muashef.vercel.app" />

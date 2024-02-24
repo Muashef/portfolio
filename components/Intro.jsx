@@ -28,7 +28,7 @@ const Intro = () => {
                         <Image src={"/images/linkedin.svg"} alt="linkedin" fill loading="eager" />
                     </div>
                 </a>
-                <a href="https://wa.link/w1e3cz">
+                <a href="https://wa.link/vixxmg"> 
                     <div className="relative w-[22px] lg:w-[30px] aspect-square">
                         <Image src={"/images/whatsapp.svg"} alt="whatsapp" fill loading="eager" />
                     </div>
